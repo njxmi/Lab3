@@ -1,4 +1,4 @@
-<!-- this one is causing my nav bar to disappear -->
+/* this one is causing my nav bar to disappear */
 
 h1 { 
 	font-color;black
@@ -21,4 +21,3 @@ header {
   display: flex;
 }
 
-}
